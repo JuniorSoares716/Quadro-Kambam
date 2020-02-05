@@ -1,0 +1,43 @@
+ body{
+            background-color:#2d3436 ; 
+        }
+        .row{
+            text-align: center;
+        }
+        .top{
+            margin-top: 150px;
+        }
+        .card{
+            background: #e67e22;
+            color: #FFFFFF;
+        }
+        .card-body{
+            background-color:#000000;
+            text-align: left;
+        }
+        .amarelo{
+            background-color:#f1c40f;
+        }
+        .azul{
+            background-color: #2980b9;
+        }
+        .branco{
+            color:#FFFFFF;
+        }
+        .verde{
+            background-color:#27ae60;
+        }
+        .modalMargin{
+            margin-bottom: 30px; 
+        }
+        .nome{
+            list-style-type: none;
+        }
+        .feito{
+            color:chartreuse;
+        }
+        .sm{
+            width: 15px;
+            height: 15px;
+            font-size: 13px;
+        }

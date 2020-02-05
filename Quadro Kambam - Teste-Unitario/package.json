@@ -1,0 +1,23 @@
+{
+  "name": "Teste-Unitario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angularPro.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jest": "^24.8.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^2.0.1"
+  },
+  "devDependencies": {
+    "karma": "^4.1.0"
+  },
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start karma.conf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
